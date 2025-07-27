@@ -22,8 +22,8 @@ A sleek, emoji-powered weather app built in Svelte. It detects your city via you
   | ≤ -20               | 🧊     | Arctic Freeze    |
   | -19 to 0            | ❄️     | Freezing Cold    |
   | 1 to 10             | 🥶     | Very Cold        |
-  | 11 to 20            | 😌     | Comfortable      |
-  | 21 to 30            | 🫠     | Warm             |
+  | 11 to 20            | 😌     | Cold             |
+  | 21 to 30            | 😌     | Normal           |
   | 31 to 40            | 🥵     | Hot              |
   | > 40                | 🔥     | Extreme Heat     |
 
